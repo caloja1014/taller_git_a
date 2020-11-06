@@ -11,6 +11,13 @@ package proyecto;
  */
 public class Ayudantia {
     public void method(){
+        System.out.println("fkdjfnkdf");
+    }
+    public void ayu(){
     
     }
+}
+
+class Empleado{
+    
 }

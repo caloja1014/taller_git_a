@@ -23,6 +23,29 @@ public class Proyecto {
         System.out.println("bla bla bla");
   
         
+        var test = new String();
+        
+        
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        System.out.println("asdfadfa");
+        
+        
+        
+        
+        
+        
+        
         
     
     }
